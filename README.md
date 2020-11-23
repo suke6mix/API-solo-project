@@ -6,7 +6,7 @@
 # 用途　Usage
  
 市販の飲料水の特徴を記録して、自分に合う水を見つけましょう！  
-Record the characteristics of botteled drinking water and find your favorite!
+Record the characteristics of botteled drinking water and find your favorite one!
  
 # 使用方法　Demo
  
