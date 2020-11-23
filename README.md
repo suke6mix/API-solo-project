@@ -1,4 +1,5 @@
-# API_solo_project
+# Water Note
+
 このリポジトリはCode Chrysalisの生徒であるときに作成しました。  
 (This was created during my time as a student at Code Chrysalis.)
 
