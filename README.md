@@ -1,5 +1,5 @@
 # API_solo_project
-このリポジトリはCode Chrysalisの生徒であるときに作成しました。
+このリポジトリはCode Chrysalisの生徒であるときに作成しました。  
 (This was created during my time as a student at Code Chrysalis.)
 
 作成日：2020/11/23 ~ 2020/11/24
